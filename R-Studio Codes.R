@@ -14,8 +14,8 @@ mbee <- read.csv("clean data.csv")
 str(mbee)
 View(mbee)
 
-# the public debt and exchange rate are in the countries national currency
-# so we convert them all to dollars to have a uniform currency unit across the 
+# The public debt and exchange rate are in the countries national currency
+# Therefore we convert them all to dollars to have a uniform currency unit across the 
 # countries. Because the exch rate is currently expressed as how much of the 
 # country's currency is equivalent to 1 dollar, then we can divide 1 by the national
 # currency to get the dollar value. Then we multiply this with the public debt
