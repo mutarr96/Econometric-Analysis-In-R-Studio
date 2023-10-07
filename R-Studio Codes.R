@@ -1,10 +1,5 @@
 # Effects of Being Part of Commonwealth of Nations on Net Exports and Public Debt in The Gambia
 
-# Mbye M. N. Gai
-# Ousman Gaye
-# Mutarr Jallow
-# Muhammed Lamin Ceesay
-
 
 library("Synth")
 
